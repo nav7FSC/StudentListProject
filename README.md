@@ -26,7 +26,7 @@ The Student List Project is a simple Java application designed to manage and dis
 
 ## Example
 
-Enter student's name: Janet
-Enter student's name: Kenny
-Student Name: Janet
-Student Name: Kenny
+- Enter student's name: Janet
+- Enter student's name: Kenny
+- Student Name: Janet
+- Student Name: Kenny
