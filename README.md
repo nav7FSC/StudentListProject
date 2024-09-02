@@ -24,9 +24,12 @@ The Student List Project is a simple Java application designed to manage and dis
     - Creates `Student` objects based on user input.
     - Displays all student names in a formatted string.
 
-## Example
+## Example Input
 
 - Enter student's name: Janet
 - Enter student's name: Kenny
+
+## Example Output
+
 - Student Name: Janet
 - Student Name: Kenny
